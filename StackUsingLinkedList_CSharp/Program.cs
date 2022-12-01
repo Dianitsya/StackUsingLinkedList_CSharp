@@ -12,8 +12,9 @@ namespace StackUsingLinkedList_CSharp
             next = n;
         }
     }
+    class Stacks
+    {
 
-   
-        }
+       
     }
 }
